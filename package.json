@@ -1,0 +1,25 @@
+{
+  "name": "dummyapi",
+  "version": "1.0.0",
+  "description": "Making my hands dirty with Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "inital"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technoAri/DummyAPI.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Arindam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technoAri/DummyAPI/issues"
+  },
+  "homepage": "https://github.com/technoAri/DummyAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
