@@ -1,2 +1,3 @@
 # DummyAPI
-getting my hands dirty with Node API creation
+to run the app - node server.js
+redirect to localhost:3000 in your browser
