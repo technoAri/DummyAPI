@@ -51,8 +51,7 @@ router.get('/', (req, res, next) => {
                     "last_name": "Howell",
                     "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
                 }
-            ]
-        
+           ]      
     });
 });
 
