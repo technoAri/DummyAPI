@@ -3,7 +3,6 @@ const router = express.Router();
 
 router.get('/', (req, res, next) => { 
     res.status(200).json({
-        
             "page": 2,
             "per_page": 6,
             "total": 12,
